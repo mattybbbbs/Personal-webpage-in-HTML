@@ -1,2 +1,2 @@
 # Personal-webpage-in-HTML
-HTML only website made for fun 
+HTML only website Udemy project - web developer bootcamp
